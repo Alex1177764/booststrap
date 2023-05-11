@@ -1,0 +1,149 @@
+
+.nav-wrapper {
+    font-weight: bolder;
+}
+nav .brand-logo {
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 2.1rem;
+    padding: 19px;
+    left: 10px;
+}
+
+nav .nav-wrapper {
+    position: relative;
+    height: 162%;
+}
+nav ul a { 
+    text-align: center;
+    font-size: 1rem;
+    color: #fff;
+    display: inline-flex;
+    padding: 24px 24px;
+    cursor: pointer;
+    
+}
+nav ul a::after {
+    box-sizing: border-box;
+}
+img {
+    text-align: center;
+    border-style: none;
+    padding: 555px;
+    margin-top: -465px;7
+}
+h1{
+    text-align: center;
+    color: #fff;
+    margin-top: -520px;
+    font-size: 6.1rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+     "Helvetica Neue", Arial, "Noto Sans", 
+     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+     font-size: 4.6rem;
+}
+svg{
+    text-align: center;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+}
+h5{
+    text-align: center;
+    color: #fff;
+}
+h4{
+    text-align: center;
+    color: #2c3e50;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: #fff;
+
+}
+.container{
+    display: flex;
+}
+.columna1{
+    text-align: center;
+    margin: 100px;
+    top: 100px;
+    left: ;
+}
+.columna2{
+    right: 100px;
+    text-align: center;
+    margin: 100px;
+    top: 100px;
+    
+}
+.boton1{ font-size: 7.0rem;
+    background: #1abc9c;;
+    border-radius: 200px;
+    border-color: #323cc4;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.formulario-register {
+    width: 200px;
+    background: #3c81c5;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #408fe2;
+    box-shadow: 7px 13px 37px #a03232;
+}
+.formulario-register h4{
+    font-size: 22px;
+    margin-top: 20px;
+
+}
+.controls1{
+    width: 100%;
+    background: #5a95d4;
+    padding: 10px;
+    border-radius: 8px;
+    border: 4px solid #518d81;
+    font-size: 18px;
+
+}
+.formulario-register botons{
+width: 100%;
+background: #191baa;
+border: none;
+padding: 12px;
+color: #fff;
+margin: 16px 0;
+
+}
+
+.columna4{
+    border-radius: 30px;
+    padding: 30px;
+    top: 5px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+.container4{
+    text-align: center;
+    display: flex;
+}
+h5{
+    color: #3c81c5;
+}
